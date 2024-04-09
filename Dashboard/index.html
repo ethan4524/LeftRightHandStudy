@@ -10,7 +10,7 @@
 
 <body>
     <br />
-    <h1><span class="text-gradient">HEAL</span>-XR</h1>
+    <h1><span class="text-gradient">Left-Right</span>Hand Study</h1>
     <div>
         <form onsubmit="login(); return false;" id="loginForm">
             <label>Username<input id="username" /></label>
@@ -21,52 +21,10 @@
     </div>
 
     <div id="content" style="display: none;">
-        <!-- Dropdown for Active Users -->
-        <div class="dropdown">
-    <button class="dropbtn" onclick="toggleDropdown()">View User Data</button>
-    <div class="dropdown-content" id="dropdownContent" style="display: none;">
-        <h4>Username = Ethan</h2>
-        <h5>Devices</h4>
-        <ul id="devicesList"></ul>
-        <h5>Profiles</h4>
-        <ul id="profilesList"></ul>
-        <!-- User Data section -->
-        <div>
-            <h4>User Data</h4>
-            <ul id="userDataList">
-                <!-- Random information about the user -->
-                <li>Phase 1 Overall Accuracy: 55%</li>
-                <li>Phase 1 Average answer time: 1.56 seconds</li>
-                <li>...Display more user data here...</li>
-            </ul>
-        </div>
-    </div>
-</div>
-
-        
-
-        <!-- First video with title "User View" -->
+        <!-- Video section -->
         <div style="position: relative;">
             <h2 style="text-align: center;">User View</h2>
             <video id="sub_video1" class="bg-black" controls></video>
-
-            <!-- Second video overlay -->
-            <video id="sub_video2" class="bg-black overlay-video" controls></video>
-        </div>
-        <!-- Control panel -->
-        <div class="control-panel">
-            <button class="control-button" onclick="toggleHands()">Show Hands</button>
-            <button class="control-button" onclick="toggleMirror()">Hide Hands</button>
-            <button class="control-button" onclick="changeView()">Show User View</button>
-            <button class="control-button" onclick="temp()">Show Avatar View</button>
-            <button class="control-button" onclick="temp()">Set VR Mode</button>
-            <button class="control-button" onclick="temp()">Set AR Mode</button>
-            <button class="control-button" onclick="temp()">Begin Phase 1</button>
-            <button class="control-button" onclick="temp()">Begin Phase 2</button>
-            <button class="control-button" onclick="temp()">Begin Phase 3</button>
-            <button class="control-button" onclick="temp()">Begin Phase 4</button>
-            <button class="control-button" onclick="temp()">Stop Activity</button>
-            <button class="control-button" onclick="temp()">Restart Session</button>
         </div>
     </div>
 
@@ -86,26 +44,11 @@
                 content.style.display = 'block';
                 loginForm.style.display = 'none';
                 logoutButton.style.display = 'block';
-                devicesList.innerHTML = '';
-                profilesList.innerHTML = '';
 
                 let user = await pb.collection('Users').getOne(pb.authStore.model.id, { expand: 'devices,profiles,devices.data' })
-                for (let device of user.devices) {
-                    let li = document.createElement('li');
-                    li.innerHTML = device;
-                    devicesList.appendChild(li);
-                }
                 for (let profile of user.expand.profiles) {
-                    let li = document.createElement('li');
-                    li.innerHTML = profile.id + " " + profile.data.streamer_stream_id;
-                    profilesList.appendChild(li);
-                    share_video("1004", document.getElementById("sub_video1"));
-                    share_video(profile.data.streamer_stream_id, document.getElementById("sub_video2"));
-
-                    listProfiles(profilesList)
+                    share_video("1010", document.getElementById("sub_video1"));
                 }
-
-                console.log(user);
             } else {
                 content.style.display = 'none';
                 loginForm.style.display = 'block';
@@ -120,26 +63,6 @@
         function logout() {
             pb.authStore.clear();
             location.reload();
-        }
-
-        function toggleDropdown() {
-            var dropdownContent = document.getElementById("dropdownContent");
-            dropdownContent.style.display = dropdownContent.style.display === "block" ? "none" : "block";
-        }
-
-        function toggleHands() {
-            // Implement logic to toggle showing hands
-            console.log("Toggling show hands...");
-        }
-
-        function toggleMirror() {
-            // Implement logic to toggle mirror mode
-            console.log("Toggling mirror mode...");
-        }
-
-        function changeView() {
-            // Implement logic to change view
-            console.log("Changing view...");
         }
     </script>
     <script src="https://unpkg.com/ion-sdk-js@1.5.5/dist/ion-sdk.min.js"></script>
