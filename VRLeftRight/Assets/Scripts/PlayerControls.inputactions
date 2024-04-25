@@ -1,0 +1,54 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "BaseControls",
+            "id": "07c81a20-0845-49a1-8b54-7abae7639ac2",
+            "actions": [
+                {
+                    "name": "RightTrigger",
+                    "type": "Value",
+                    "id": "14c59adc-24ef-4ee0-b21b-61ab28810598",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LeftTrigger",
+                    "type": "Value",
+                    "id": "19c5e18b-f051-4cdb-876b-77f61d4ea8d7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f72946c8-57df-47a8-b3d2-50c3a7e609b1",
+                    "path": "<OculusTouchController>/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftTrigger",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "113f8946-1b04-4f4a-9473-49c223f5d53e",
+                    "path": "<XRInputV1::Oculus::OculusTouchControllerRight>/triggerpressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightTrigger",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
