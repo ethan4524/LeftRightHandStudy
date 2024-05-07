@@ -398,3 +398,83 @@ Right
 Left
 Left
 1.972964
+5/7/2024 11:22:52 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+1
+Left
+Left
+29.83775
+5/7/2024 11:23:12 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+2
+Left
+Right
+16.47612
+5/7/2024 11:23:24 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+3
+Left
+Left
+8.538707
+5/7/2024 11:23:36 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+4
+Left
+Left
+9.413583
+5/7/2024 11:23:44 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+5
+Right
+Right
+4.765646
+5/7/2024 11:23:53 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+6
+Left
+Left
+6.015424
+5/7/2024 11:23:59 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+7
+Right
+Right
+3.017187
+5/7/2024 11:24:07 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+8
+Right
+Right
+4.722499
+5/7/2024 11:24:14 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+9
+Right
+Right
+4.124368
+5/7/2024 11:24:20 AM
+4ab5dfe3-3df7-45c4-ad6c-1235b760bc40
+False
+Right
+10
+Right
+Right
+3.112597

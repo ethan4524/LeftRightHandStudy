@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: UniversityofGeorgia
+  companyName: BowmarVR
   productName: LeftRightStudy
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -137,7 +137,7 @@ PlayerSettings:
   vulkanEnableLateAcquireNextImage: 0
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
-  bundleVersion: 0.1.1
+  bundleVersion: 0.1.4
   preloadedAssets:
   - {fileID: 11400000, guid: cf3b89498c31a4842bb18e1961d659cf, type: 2}
   - {fileID: -8676288443812626399, guid: 605b7cd0381a64241a0199f10981a8f0, type: 2}
@@ -164,15 +164,15 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.UniversityOfGeorgia.HealXR2
-    Standalone: com.Unity-Technologies.VR-Template
+    Android: com.BowmarVR.LeftRightStudy
+    Standalone: com.BowmarVR.LeftRightStudy
   buildNumber:
     Standalone: 0
     VisionOS: 0
     iPhone: 0
     tvOS: 0
-  overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 26
+  overrideDefaultApplicationIdentifier: 0
+  AndroidBundleVersionCode: 29
   AndroidMinSdkVersion: 29
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 0
@@ -267,7 +267,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: '{inproject}: Keystore/left_right_study_key.keystore'
-  AndroidKeyaliasName: Debug
+  AndroidKeyaliasName: left_right_study_key
   AndroidEnableArmv9SecurityFeatures: 0
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
