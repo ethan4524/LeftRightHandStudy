@@ -478,3 +478,427 @@ Right
 Right
 Right
 3.112597
+5/7/2024 12:26:35 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+1
+Left
+Left
+10.29027
+5/7/2024 12:26:43 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+2
+Right
+Right
+4.430265
+5/7/2024 12:26:49 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+3
+Right
+Right
+3.070618
+5/7/2024 12:26:56 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+4
+Right
+Right
+3.973353
+5/7/2024 12:27:03 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+5
+Right
+Right
+4.374045
+5/7/2024 12:27:13 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+6
+Right
+Right
+6.344651
+5/7/2024 12:27:19 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+7
+Right
+Right
+2.846565
+5/7/2024 12:27:23 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+8
+Left
+Left
+1.706062
+5/7/2024 12:27:30 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+9
+Left
+Left
+3.110157
+5/7/2024 12:27:35 PM
+255779ca-c54f-4d46-8de5-637cf798e852
+False
+Left
+10
+Left
+Left
+2.623406
+5/7/2024 12:28:45 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+1
+Left
+Left
+5.275928
+5/7/2024 12:28:50 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+2
+Right
+Right
+1.750223
+5/7/2024 12:28:54 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+3
+Right
+Right
+1.194276
+5/7/2024 12:29:01 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+4
+Left
+Left
+4.290618
+5/7/2024 12:29:06 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+5
+Left
+Left
+1.375338
+5/7/2024 12:29:10 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+6
+Left
+Left
+1.025268
+5/7/2024 12:29:16 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+7
+Right
+Right
+2.707456
+5/7/2024 12:29:20 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+8
+Right
+Right
+0.9799042
+5/7/2024 12:29:24 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+9
+Left
+Left
+1.178046
+5/7/2024 12:29:32 PM
+0eb73cc0-91bf-424d-b5bc-ecceae4e020a
+False
+Right
+10
+Right
+Right
+4.889925
+5/7/2024 12:30:32 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+1
+Right
+Right
+2.362079
+5/7/2024 12:30:36 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+2
+Right
+Right
+1.223693
+5/7/2024 12:30:40 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+3
+Left
+Left
+0.978305
+5/7/2024 12:30:45 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+4
+Right
+Right
+1.248771
+5/7/2024 12:30:49 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+5
+Right
+Right
+1.000157
+5/7/2024 12:30:53 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+6
+Right
+Right
+1.401753
+5/7/2024 12:30:57 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+7
+Right
+Right
+0.9022744
+5/7/2024 12:31:01 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+8
+Right
+Right
+0.9171583
+5/7/2024 12:31:05 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+9
+Right
+Right
+0.8052468
+5/7/2024 12:31:10 PM
+70c859ce-579b-48eb-afa2-d50686863532
+False
+Right
+10
+Left
+Left
+1.763344
+5/7/2024 12:32:09 PM
+7624f70b-767f-4ff6-99f2-857eb2fdbcb7
+True
+Right
+1
+Right
+Right
+0.5289286
+5/7/2024 12:32:13 PM
+7624f70b-767f-4ff6-99f2-857eb2fdbcb7
+True
+Right
+2
+Right
+Right
+0.3601121
+5/7/2024 12:32:38 PM
+7624f70b-767f-4ff6-99f2-857eb2fdbcb7
+True
+Right
+3
+Left
+Right
+19.55978
+5/7/2024 12:33:25 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+1
+Right
+Right
+2.054259
+5/7/2024 12:33:30 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+2
+Left
+Left
+2.249004
+5/7/2024 12:33:35 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+3
+Right
+Right
+1.178583
+5/7/2024 12:33:39 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+4
+Right
+Right
+1.663844
+5/7/2024 12:33:43 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+5
+Left
+Left
+1.054029
+5/7/2024 12:33:48 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+6
+Right
+Right
+1.499157
+5/7/2024 12:33:52 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+7
+Right
+Right
+1.162809
+5/7/2024 12:33:56 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+8
+Right
+Right
+0.8590559
+5/7/2024 12:34:01 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+9
+Right
+Right
+1.890539
+5/7/2024 12:34:06 PM
+4a2a3560-f736-431b-802a-0e079515b94f
+True
+Left
+10
+Left
+Left
+1.490928
+5/7/2024 12:35:06 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+1
+Left
+Left
+0.8469174
+5/7/2024 12:35:10 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+2
+Left
+Left
+0.7087399
+5/7/2024 12:35:13 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+3
+Left
+Right
+0.8306299
+5/7/2024 12:35:17 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+4
+Left
+Left
+0.9730564
+5/7/2024 12:35:21 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+5
+Right
+Right
+0.7632669
+5/7/2024 12:35:25 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+6
+Left
+Left
+0.7484576
+5/7/2024 12:35:29 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+7
+Left
+Left
+0.76838
+5/7/2024 12:35:33 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+8
+Right
+Right
+0.6798205
+5/7/2024 12:35:36 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+9
+Right
+Right
+0.6685922
+5/7/2024 12:35:40 PM
+1277f016-b2c2-459c-88dd-10c03f6c30ea
+True
+Right
+10
+Left
+Left
+0.5689936
