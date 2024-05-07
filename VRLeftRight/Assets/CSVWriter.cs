@@ -10,6 +10,7 @@ public class CSVWriter : MonoBehaviour
 
     public void AppendCSV(string[] data)
     {
+
         string filePath = Path.Combine(Application.persistentDataPath, "data.txt");
 
         // Create or append to the file

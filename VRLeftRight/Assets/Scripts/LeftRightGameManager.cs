@@ -78,7 +78,7 @@ public class LeftRightGameManager : MonoBehaviour
 
     public CSVWriter csvWriter;
     public GameState gameState;
-
+    public MyLogger myLogger;
     void Start()
     {
         loading = false;
@@ -89,7 +89,7 @@ public class LeftRightGameManager : MonoBehaviour
         correctGuesses = 0;
 
         gameState=GameState.Idle;
-
+        myLogger.StopLogging();
         ShowHands();
     }
 
@@ -230,18 +230,20 @@ public class LeftRightGameManager : MonoBehaviour
                          "Accuracy: " + formattedFinalScore + "\n" +
                          "Average Answer Time: " + formattedAverage + "\n" +
                          "Nice Work!";
-
+        myLogger.StopLogging();
     }
 
 
     
 
     public void BeginSession() {
+        
         guessTimes = new List<float>();
         ResetCalibration();
         gameState=GameState.Calibration;
         uniqueID = System.Guid.NewGuid().ToString();
         //mainmenu.getHandsShown
+        myLogger.BeginLogging(uniqueID);
     }
 
     public void RestartSession() {
@@ -288,8 +290,8 @@ public class LeftRightGameManager : MonoBehaviour
         gameState = GameState.Load;
         loading = false;
         leftRightGenerator.HideHands();
-        string timeStamp = Time.time.ToString();
-        
+        string timeStamp = System.DateTime.Now.ToString();
+
         string[] tempData = {timeStamp,
                             uniqueID,
                             handsShown,
@@ -323,6 +325,7 @@ public class LeftRightGameManager : MonoBehaviour
         correctGuesses = 0;
         loading=false;
         gameState = GameState.Load;
+        
     }
 
 

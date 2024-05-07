@@ -1,0 +1,400 @@
+5/6/2024 7:20:27 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+1
+Left
+Left
+4.667604
+5/6/2024 7:20:31 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+2
+Left
+Left
+1.306069
+5/6/2024 7:20:36 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+3
+Right
+Right
+1.263996
+5/6/2024 7:20:40 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+4
+Right
+Right
+0.9173071
+5/6/2024 7:20:44 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+5
+Right
+Right
+1.112537
+5/6/2024 7:20:48 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+6
+Left
+Left
+1.194563
+5/6/2024 7:20:52 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+7
+Left
+Left
+0.8202832
+5/6/2024 7:20:56 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+8
+Right
+Right
+0.9446684
+5/6/2024 7:21:00 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+9
+Left
+Left
+1.013755
+5/6/2024 7:21:04 PM
+b1a54a67-ec21-4958-af34-2352bdbe3f10
+True
+Right
+10
+Left
+Left
+1.082594
+5/6/2024 7:21:35 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+1
+Right
+Right
+1.792355
+5/6/2024 7:21:40 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+2
+Left
+Left
+2.666356
+5/6/2024 7:21:48 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+3
+Left
+Left
+4.344778
+5/6/2024 7:21:53 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+4
+Left
+Left
+1.875574
+5/6/2024 7:21:59 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+5
+Left
+Left
+3.168076
+5/6/2024 7:22:04 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+6
+Right
+Right
+2.486974
+5/6/2024 7:22:09 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+7
+Right
+Right
+1.722992
+5/6/2024 7:22:13 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+8
+Right
+Right
+1.264344
+5/6/2024 7:22:19 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+9
+Left
+Left
+2.624763
+5/6/2024 7:22:24 PM
+2cd06449-375f-4467-abc7-68b80c00abf3
+True
+Right
+10
+Left
+Left
+1.847685
+5/6/2024 7:22:42 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+1
+Right
+Right
+2.126162
+5/6/2024 7:22:48 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+2
+Right
+Right
+2.166948
+5/6/2024 7:22:52 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+3
+Left
+Left
+1.6113
+5/6/2024 7:22:57 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+4
+Right
+Right
+1.584757
+5/6/2024 7:23:01 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+5
+Right
+Right
+1.292913
+5/6/2024 7:23:07 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+6
+Right
+Right
+3.084629
+5/6/2024 7:23:13 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+7
+Left
+Left
+2.737262
+5/6/2024 7:23:18 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+8
+Left
+Left
+2.09814
+5/6/2024 7:23:23 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+9
+Left
+Left
+1.527426
+5/6/2024 7:23:27 PM
+fe6db3f7-524d-49d2-9e82-f6925af05931
+False
+Left
+10
+Left
+Left
+1.472103
+5/6/2024 9:10:13 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+1
+Right
+Right
+23.0822
+5/6/2024 9:10:19 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+2
+Right
+Right
+2.304443
+5/6/2024 9:10:23 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+3
+Right
+Right
+1.305582
+5/6/2024 9:10:27 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+4
+Left
+Left
+1.208217
+5/6/2024 9:10:32 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+5
+Right
+Right
+1.722857
+5/6/2024 9:10:37 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+6
+Left
+Left
+1.555232
+5/6/2024 9:10:41 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+7
+Right
+Right
+1.513081
+5/6/2024 9:10:47 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+8
+Left
+Left
+2.31956
+5/6/2024 9:10:52 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+9
+Right
+Right
+2.528113
+5/6/2024 9:10:57 PM
+0c0f1029-ac9b-462c-a535-ef3f65f5165d
+True
+Right
+10
+Left
+Left
+2.318627
+5/6/2024 9:13:05 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+1
+Right
+Right
+6.377974
+5/6/2024 9:13:18 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+2
+Left
+Left
+10.74972
+5/6/2024 9:13:25 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+3
+Left
+Left
+3.223293
+5/6/2024 9:13:31 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+4
+Right
+Right
+2.861214
+5/6/2024 9:13:37 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+5
+Left
+Left
+3.110528
+5/6/2024 9:13:44 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+6
+Right
+Right
+3.764772
+5/6/2024 9:13:49 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+7
+Left
+Left
+2.056085
+5/6/2024 9:13:54 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+8
+Right
+Right
+2.55519
+5/6/2024 9:14:02 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+9
+Left
+Left
+4.306583
+5/6/2024 9:14:07 PM
+3467974d-8b9b-4e6f-83e7-994403bf6c12
+True
+Right
+10
+Left
+Left
+1.972964
